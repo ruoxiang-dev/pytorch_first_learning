@@ -1,2 +1,2 @@
 # pytorch_first_learning
-初学者自学pytorch的记录
+初学者自学pytorch的记录，仅用于记录本人自学的进度
